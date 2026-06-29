@@ -4,7 +4,7 @@
 set -e
 
 (
-MANIFEST_URL="${MANIFEST_URL:-https://github.com/hnguyen1910/youtube-webos/releases/latest/download/youtube.hntin.v4.manifest.json}"
+MANIFEST_URL="${MANIFEST_URL:-https://github.com/hnguyen1910/youtube-webos/releases/latest/download/youtube.leanback.v4.manifest.json}"
 export MANIFEST_URL
 
 echo "[ ] Downloading manifest..."
